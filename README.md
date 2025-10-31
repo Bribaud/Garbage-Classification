@@ -13,6 +13,8 @@ Système de classification automatique des déchets ménagers utilisant le Deep 
 - ♻️ **Plastique** (Plastic)
 - 🗑️ **Ordures générales** (Trash)
 
+![Logo du projet](img1.png)
+
 ## ✨ Fonctionnalités de l'Application
 
 * **Classification en temps réel** avec affichage du résultat en moins de 3 secondes
